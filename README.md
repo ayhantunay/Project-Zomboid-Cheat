@@ -21,8 +21,8 @@ This open-source Project Zomboid modification, coded in Java (API) and Lua (GUI)
 - Use the features discreetly avoid actions that could attract attention.
 
 ## [ 📞 ] Contact:
-- Discord: xxxdosdxxx
-- Jabber: CodePZCHT@exploit.im
+- Discord: andry2286
+- Jabber: andry2286T@exploit.im
 
 Tags:
-project zomboid hack, project zomboid hacks, project zomboid hack menu, project zomboid hack download, project zomboid hack skill, project zomboid hack mod, project zomboid hack online, project zomboid hack pc, project zomboid hack client, how to cheat in project zomboid, project zomboid trainer, project zomboid cheat, project zomboid cheat menu, project zomboid cheat engine, project zomboid mod menu, project zomboid cheat multiplayer, project zomboid codes, project zomboid mod
+project zomboid hack, project zomboid hacks, project zomboid hack menu, project zomboid hack download, project zomboid hack skill, project zomboid hack mod, project zomboid hack online, project zomboid hack pc, project zomboid hack client, how to cheat in project zomboid, project zomboid trainer, project zomboid cheat, project zomboid cheat menu, project zomboid cheat engine, project zomboid mod menu, project zomboid cheat multiplayer, project zomboid codes
